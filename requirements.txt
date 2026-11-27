@@ -1,0 +1,4 @@
+cryptography>=41
+flask>=2.3
+rich>=13
+pytest>=7
